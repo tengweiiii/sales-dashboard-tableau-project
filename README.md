@@ -1,6 +1,11 @@
 # sales-dashboard-tableau-project
 This Tableau project delivers two interactive dashboards to help stakeholders analyze business performance from both sales and customer perspectives. It enables sales managers, executives and marketing teams to monitor key metrics, identify trends and make data-driven decisions.
 
+<img width="1192" height="797" alt="image" src="https://github.com/user-attachments/assets/1cdad888-6c03-4d6b-a77a-94a5b1cdf7d5" />
+
+<img width="1190" height="797" alt="image" src="https://github.com/user-attachments/assets/0bc3e251-b5f0-433d-a1d0-cfd5c42cf450" />
+
+
 ---
 
 ### 🙏 Credits / Acknowledgements
